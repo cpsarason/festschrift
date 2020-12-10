@@ -14,5 +14,6 @@ v11.14.0
 
 1. Clone this repo
 2. Change to src/reveal.js directory
-3. type "npm install"
-4. type "npm start"
+3. type "npm install gulp"
+4. type "npm install"
+5. type "npm start"
